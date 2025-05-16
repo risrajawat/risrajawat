@@ -9,7 +9,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=risrajawat&label=Profile%20views&color=0e75b6&style=flat" alt="risrajawat" /> </p>
 
-- 🌱 I’m currently learning **Java, DSA, CP, Three js, python**
+- 🌱 I’m currently learning **C++, DSA, CP, Three js, python**
 
 - 💬 Ask me about **React, tailwind, java, javascript**
 
